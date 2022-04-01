@@ -18,18 +18,24 @@ ul{
 .heroImg{
     height: 600px;
     padding: 25px;
+    float: left
 }
 .content{
     width: 500px;
     margin: 0 auto;
-    background-color: black;
 }
 footer{
     background-color: #373738;
     padding: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
 }
 ul{
     display: inline-block;
     vertical-align: top;
     padding: center;
+}
+p{
+    color: black;
 }
